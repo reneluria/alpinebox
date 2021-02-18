@@ -3,6 +3,8 @@ FROM alpine
 RUN apk add \
         bash \
         curl \
-        gettext
+        gettext \
+        openssl \
+        ca-certificates
 
 CMD ["/bin/bash"]
