@@ -7,3 +7,9 @@ comes with:
 - bash
 - curl
 - gettext (envsubst FTW)
+- jq
+- openssl
+- git
+- ca-certificates
+- kubectl
+- kustomize
